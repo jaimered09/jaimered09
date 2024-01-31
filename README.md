@@ -3,9 +3,9 @@
   ¡Hola! 👋, soy Jaime Jaramillo S 😎
 
 - Publicista ⏐ Universidad del Pacífico Chile 🇨🇱
-- Actualmente estudiando → Desarrollo web Full Stack ⏐ Universidad del Desarrollo Chile ⏐ www.udd.cl 🤓 🖥
+- Egresado → Bootcamp Desarrollo web Full Stack, 2023 ⏐ Universidad del Desarrollo Chile ⏐ www.udd.cl 🤓 🖥
 
-🖥  Lenguajes de programación:  HTML⏐CSS
+🖥  Lenguajes de programación:  HTML ⏐ CSS ⏐ Javascript ⏐ Node.js ⏐ React ⏐
 
 📧 Contacto: jjaramillo009@gmail.com
 
